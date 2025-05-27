@@ -1,0 +1,42 @@
+.logo
+{
+    width: 140px;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #075999;
+    text-transform: uppercase;
+    padding: 14px 18px;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover
+{
+    background: #075999;
+    color: white;
+}
+.box
+{
+    background: #EFEFEF;
+    padding: 40px 20px;
+    border: 1px solid #EFEFEF;
+}
+.box:hover
+{
+    border: 1px solid #EFEFEF;
+}
+.about
+{
+    background: #075999;
+    color: white;
+    padding: 30px 0;
+}
+footer ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer li
+{
+    line-height: 1.7;
+}
+
